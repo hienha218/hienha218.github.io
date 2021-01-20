@@ -6,8 +6,13 @@ h1 {font-size: 100px;
     background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");}
     
 h2 {font-size: 32px;
-    color: white;
-    background-color: mediumspringgreen;}
+    color: white;}
     
 span {font-weight: bold;
       color: blue;}
+
+#brushes {background-color: mediumspringgreen;}
+
+#frames {background-color: light-coral;}
+
+#paint {background-color: skyblue;}
